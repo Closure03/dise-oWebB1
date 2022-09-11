@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Principal</title>
+  <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+    <h1>
+        <header class ="titulos">
+        Titulo
+        </header>
+    </h1>
+    <br>
+    <ul class="menu">
+        <li><a href="#Titulo">titulo</a></li> <!--identificadores en pagina-->
+        <li><a href="#tema_principal">Ingenieria de sistemas</a></li>
+        <li><a href="#subtema">Tema 1</a></li>
+        <li><a href="#subtema">Tema 2</a></li>
+        <li><a target= "_blank" href="./views/ndPag.html">Back-End y Front-End</a></li>
+        <li><a target= "_blank" href="./views/erpag.html">Generic</a></li>
+
+        <li><a href="#footer">contactanos</a></li>
+    </ul>
+    <br>
+    <main>
+        <div id="articulo">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque dolor voluptas error deserunt. Nostrum, cum commodi accusantium dolorum nemo sunt, impedit eaque quod iusto culpa sed dolore, nihil autem est?
+        </div>
+        <h2 id="tema_principal" id="titulos" >resumen</h2>
+        <div>   
+            <img class="img" src="/Proyecto copy/Assets/img/programming-1873854_960_720.png" width="600" height="450" style="border:2;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"><br><br>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit repellat tempore amet illo, deleniti pariatur natus quos esse aliquam aut quaerat sint eius totam exercitationem minima distinctio officiis dolore aliquid?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, excepturi eveniet eius maxime quam similique in officiis! Ipsum voluptatum vel cupiditate, laboriosam, molestiae fugit nisi aperiam quo reprehenderit, labore modi.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta corrupti tenetur libero aliquid, quae sunt sapiente quia ipsum officiis a! Vitae quia nemo distinctio id cupiditate. Nulla excepturi explicabo incidunt.
+            Molestiae modi aut, ipsum optio excepturi quo impedit deserunt placeat mollitia architecto voluptatibus beatae, sunt eaque pariatur quidem? Nisi assumenda at, quia aperiam quasi officia quo sapiente dicta ut iure.
+
+        </div>
+        <h2 id="subtema">subtitulo 2</h2>
+        <div>
+            <img class="img" src="/Proyecto copy/Assets/img/ransomware-2321665_960_720.png" width="600" height="450" style="border:2;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"><br><br>
+            <br>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, sed dignissimos. Nam, maiores, possimus cum quo quia assumenda voluptatibus laudantium perspiciatis asperiores exercitationem eligendi consectetur alias quidem sed explicabo necessitatibus!
+            Eos nulla consequatur necessitatibus repellendus ab, quisquam doloremque. Eveniet blanditiis dignissimos atque temporibus fuga illo esse labore, pariatur at quasi modi magni, vero similique facere voluptatibus dolorem deserunt ipsam quos?
+            Reiciendis, cupiditate, ab commodi autem fugiat doloremque voluptate rem eos quam, nesciunt nulla laborum fugit officia quasi? Aut deserunt dolor doloribus corporis, tempore, suscipit officiis eum sequi, maxime minima veritatis.
+        </div>
+        <h2 id="Subtitulo3">subtitulo 3</h2>
+        <div>
+            <img class="img" src="/Proyecto copy/Assets/img/cup-of-coffee-1280537_960_720.webp" width="600" height="450" style="border:2;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> <br><br>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, sed dignissimos. Nam, maiores, possimus cum quo quia assumenda voluptatibus laudantium perspiciatis asperiores exercitationem eligendi consectetur alias quidem sed explicabo necessitatibus!
+            Eos nulla consequatur necessitatibus repellendus ab, quisquam doloremque. Eveniet blanditiis dignissimos atque temporibus fuga illo esse labore, pariatur at quasi modi magni, vero similique facere voluptatibus dolorem deserunt ipsam quos?
+            Reiciendis, cupiditate, ab commodi autem fugiat doloremque voluptate rem eos quam, nesciunt nulla laborum fugit officia quasi? Aut deserunt dolor doloribus corporis, tempore, suscipit officiis eum sequi, maxime minima veritatis.
+        </div>
+    </main>
+    <br><br><br>
+    <hr>
+    <h3>Nuestra Locacion</h3>
+            <section id="ubicacion"></section>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.7851405365986!2d-74.08305474922834!3d4.632384043518419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f99a0f9bb0ce7%3A0x5d71ff487837183c!2sUniempresarial!5e0!3m2!1ses!2sco!4v1658761507844!5m2!1ses!2sco" width="600" height="450" style="border:2;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <section id="Contactanos"></section>
+            <br><br><br>
+            <hr>
+</body>
+
+<footer id="footer">
+    <h3 id="texto">Contactanos</h3>
+    <label for="name">introduzca su nombre</label>
+        <input type="text" id="mail" name="name" value=" " placeholder="introduzca su nombre" min="3" maxlength="50" 
+        pattern="[a-zA-Z]{3-20}" title="Se admiten solo letras" autocomplete="off" required/>
+        <br><br>
+        <label >edad</label>
+        <input type="number" min="1" max="99" id="age"><br>
+        <label for="mail">correo electronico</label>
+        <input type="email" name="mail" id="mail" placeholder="email">
+        <br><br>
+        <label for="pss">contraseña</label>
+        <input type="password" id="pss"><br><br>
+</select>
+<label for="Condiciones">Acepta Terminos y Condiciones de privacidad?</label>
+<input type="checkbox" id="condiciones"><br><br>
+<button type="submit" id="Enviar">Enviar Datos</button>
+<button type="reset" id="Borrar">Borrar</button>
+    </form> 
+</footer>
+</html>
+
+
+<!--
+1. diferencias entre elemento en bloque y elementos en linea, de un ejemplo
+un elemento de bloque es aquel que se usa en un documento con el fin de realizar un llenado de infromacion
+<body>
+un elemento de linea es aque que cumple con un proposito entregandole caracteristicas a un espacio
+type="
+2. cual es el ejemplo para listas desordenadas, ejemplifique
+<ul>
+    <li>
+3. cual es la etiqueta que se utiliza para envolver los formularios
+<input>
+4. por que es recomendable usar la etiqueta script antes del cierre del body
+para que evite errores de copilacion en el browser
+5. para que es usada la etiqueta aside
+ponerb informacion no relevante
+
+-->

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <form id="form">
+        <!--Inputs-->
+        <label for="name">introduzca su nombre</label>
+        <input type="text" id="name" name="name" value=" " placeholder="introduzca su nombre" min="3" maxlength="50" 
+        pattern="[a-zA-Z]{3-20}" title="Se admiten solo letras" autocomplete="off" required/>
+        <br><br>
+        <label >edad</label>
+        <input type="number" min="1" max="99" id="age">
+        <label for="mail">correo electronico</label>
+        <input type="email" name="mail" id="mail" placeholder="email">
+        <br><br>
+        <label for="pss">contraseña</label>
+        <input type="password" id="pss"><br><br>
+        <br><br>
+        <label for="colores">Seleccione un color: </label>
+        <input type="color" id="colores">
+        <br><br>
+        <label for="file">seleccione el archivo</label>
+        <input type="file"id="files">
+        <br><br>
+        <label for="oculto">input oculto</label>
+        <input type="hidden" id="oculto">
+        <br><br>
+        <label for="mes">Selecciones un mes: </label>
+        <input type="month" id="mes"><br><br>   
+
+        <datalist id=" meses">
+            <option value="Enero">
+            <option value="Febrero">
+            <option value="Marzo">
+            <option value="Abril">
+            <option value="Mayo">
+            <option value="Abril">
+            <option value="mayo">
+            <option value="Junio">
+            <option value="Julio">
+            <option value="Agosto">
+            <option value="Septiembre">
+            <option value="octubre"></option>
+            <option value="noviembre"></option>
+            <option value="diciembre"></option>
+        </datalist>
+<fieldset><legend>Estado Civi:</legend>
+    <input type="radio" name="estado" value="soltero">soltero(a)
+    <input type="radio" name="estado"  value="casado">casado
+    <input type="radio" name="estado" value="Divorciado">Divorciado
+</fieldset> <br><br>
+<label for="lenguajes">lenguajes de programacion</label>
+<select name="lenguajes">
+    <optgroup label="backend">
+        <option>Java</option>
+        <option>PHP</option>
+        <option>VB.NET</option>
+        <option>NODE.JS</option>
+    </optgroup>
+    <optgroup label="Frontend">
+        <option>TypeScript</option>
+        <option>JavaScript</option>
+        <option>CSS</option>
+    </optgroup>
+
+</select><br><br>
+<label for="Condiciones">Acepta Terminos y Condiciones?</label>
+<input type="checkbox" id="condiciones"><br><br>
+<hr>
+<input type="button"id="boton" value="Aceptar">
+<button type="button" id="boton2">Validar</button>
+<button type="submit" id="Enviar">Enviar Datos</button>
+<button type="reset" id="Borrar">Borrar</button>
+    </form>
+    
+
+    <script src="./main.js"></script>
+</body>
+</html>
+

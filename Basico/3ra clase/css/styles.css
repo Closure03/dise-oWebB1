@@ -1,0 +1,16 @@
+img{
+    border:1px solid rgb(180, 156, 235);
+    image-rendering: pixelated;
+    width: auto;
+    height: auto;
+}
+#container{
+    width: auto;
+    height: auto;
+    
+}
+
+#titulos{
+    width: auto;
+size-adjust: 20%;
+}

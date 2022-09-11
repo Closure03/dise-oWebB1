@@ -1,0 +1,505 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1600px;
+height: 900px;
+
+background: #F5F6FA;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 373px;
+height: 1028px;
+left: 0px;
+top: 0px;
+
+background: #0097E6;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 225px;
+height: 1132px;
+left: 247px;
+top: -52px;
+
+background: #0097E6;
+
+
+/* TurboParking */
+
+position: absolute;
+width: 280px;
+height: 50px;
+left: 654px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* undraw_login_re_4vu2 1 */
+
+position: absolute;
+width: 576px;
+height: 350px;
+left: 47px;
+top: 422px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 74.68%;
+right: 0%;
+top: 66.86%;
+bottom: 0.01%;
+
+background: #4CD137;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.18%;
+right: 3.94%;
+top: 68.35%;
+bottom: 0.71%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 65.22%;
+top: 54.41%;
+bottom: 0.07%;
+
+background: #4CD137;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.41%;
+right: 75.53%;
+top: 56.46%;
+bottom: 1.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.83%;
+right: 28.22%;
+top: 0%;
+bottom: 0.22%;
+
+background: #F2F2F2;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.83%;
+right: 36.95%;
+top: 0%;
+bottom: 0.22%;
+
+background: #CCCCCC;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.51%;
+right: 37.82%;
+top: 61.43%;
+bottom: 32.42%;
+
+background: #6C63FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.27%;
+right: 31.66%;
+top: 88.53%;
+bottom: 2.38%;
+
+background: #FFB8B8;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.22%;
+right: 31.35%;
+top: 96.95%;
+bottom: 0.19%;
+
+background: #2F2E41;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.28%;
+right: 24.64%;
+top: 88.53%;
+bottom: 2.38%;
+
+background: #FFB8B8;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.23%;
+right: 24.34%;
+top: 96.95%;
+bottom: 0.19%;
+
+background: #2F2E41;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.06%;
+right: 31.06%;
+top: 39.98%;
+bottom: 33.97%;
+
+background: #FFB8B8;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.82%;
+right: 23.5%;
+top: 42.78%;
+bottom: 30.46%;
+
+background: #FFB8B8;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.53%;
+right: 26.82%;
+top: 26.45%;
+bottom: 64.11%;
+
+background: #FFB8B8;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.11%;
+right: 24.49%;
+top: 37.63%;
+bottom: 36.05%;
+
+background: #6C63FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.91%;
+right: 31.13%;
+top: 39.22%;
+bottom: 50.35%;
+
+background: #6C63FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.39%;
+right: 23.54%;
+top: 39.71%;
+bottom: 47.94%;
+
+background: #6C63FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.65%;
+right: 24.34%;
+top: 62.89%;
+bottom: 5.19%;
+
+background: #2F2E41;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.97%;
+right: 26.43%;
+top: 24.27%;
+bottom: 64.7%;
+
+background: #2F2E41;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.55%;
+right: 3.31%;
+top: 99.45%;
+bottom: 0.1%;
+
+background: #3F3D56;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.22%;
+right: 45.34%;
+top: 20.67%;
+bottom: 21.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.22%;
+right: 45.34%;
+top: 38.72%;
+bottom: 60.9%;
+
+background: #CCCCCC;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.28%;
+right: 45.29%;
+top: 60.66%;
+bottom: 38.96%;
+
+background: #CCCCCC;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.39%;
+right: 56.38%;
+top: 20.67%;
+bottom: 20.89%;
+
+background: #CCCCCC;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.14%;
+right: 50.63%;
+top: 20.67%;
+bottom: 20.89%;
+
+background: #CCCCCC;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 398px;
+height: 42px;
+left: 809px;
+top: 285px;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 398px;
+height: 0px;
+left: 809px;
+top: 327px;
+
+border: 1px solid #000000;
+transform: rotate(-0.14deg);
+
+
+/* Usuario */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 834px;
+top: 285px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 398px;
+height: 39px;
+left: 809px;
+top: 453px;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 398px;
+height: 0px;
+left: 809px;
+top: 492px;
+
+border: 1px solid #000000;
+transform: rotate(-0.14deg);
+
+
+/* Contraseña */
+
+position: absolute;
+width: 106px;
+height: 24px;
+left: 834px;
+top: 453px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 189px;
+height: 57px;
+left: 785px;
+top: 604px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 189px;
+height: 57px;
+left: 785px;
+top: 604px;
+
+background: #8C7AE6;
+
+
+/* Ingresar */
+
+position: absolute;
+width: 82px;
+height: 24px;
+left: 838px;
+top: 618px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #F5F6FA;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 189px;
+height: 57px;
+left: 1059px;
+top: 603px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 189px;
+height: 57px;
+left: 1059px;
+top: 603px;
+
+background: #192A56;
+
+
+/* Registrar */
+
+position: absolute;
+width: 93px;
+height: 28px;
+left: 1107px;
+top: 618px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #F5F6FA;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1279px;
+top: 70px;
+

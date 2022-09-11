@@ -1,0 +1,21 @@
+/*
+que es css? cascading style sheets
+
+es un lenguake aliado a html que nos permite formatear de una manera agradable al ojo documentos en html, es decir que es un lenguaje de estilos para html
+
+la estructura basica para trabajar en css es 
+
+selector{
+    atributo: valor;
+}
+
+
+
+*/
+
+
+h1{
+    color: pink;
+    background-color: gray;
+    text-align: center;
+}

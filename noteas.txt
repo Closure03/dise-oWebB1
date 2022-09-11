@@ -1,0 +1,112 @@
+Inicio
+-Declaracion de variables o constantes
+-inicializacion
+--inicia en un valor determinado
+-lectura de variables
+-procesos
+-condiciones(bucles,sw,condicionales)
+-impresiones
+Fin
+
+realizar un pseudocodigo que me permita sumar 2 numeros
+
+Ds(dato de salida)=suma
+De(dato de entrada)   n1 n2
+--el nombre deb ser significativo,no usar palabras reservadas, no debe poseer caracteres especiales, usamos siempre chamelcase ej: numeroUno
+
+inicio
+-decimal numeroUno
+-decimal numeroDos
+-decimal suma
+-suma=0
+leer=numeroUno
+leer=numeroDos
+suma=numeroUno+numeroDos
+imprimir suma
+fin
+
+multiplicar dos numeros pares 
+
+Ds(dato de salida) multiplicacion
+De(dato de entrada)   n1 n2
+condicion: numeros deben ser pares
+
+si(     )entonces
+---si(     )entonces
+
+---sino
+
+---finsi
+
+finsi
+
+
+
+inicio                                                                             
+-decimal numeroUno
+-decimal numeroDos
+-decimal multiplicacion
+-multiplicacion=0
+si (numeroUno %2==0) entonces
+-si (numeroDos %2==0) entonces
+-multiplicacion=numeroUno*numero2
+-finsi
+finsi
+imprimir multiplicaciom
+fin
+
+Operadores Aritmeticos:
++ suma
+- resta
+* multiplicacion
+/ Division
+% Modulo
+= Asignacion
+== Comparacion
+^ potencia
++= Suma y asignacion
+
+Operadores Logicos: 
+! Negacion
+!= Diferente
+<mayor 
+>menor
+<=mayor o igual
+>=menor o igual
+
+Operadores Logicos Booleanos
+ Y and &&
+ o or ||
+
+var1 = 3
+car2 = 6
+_______________________________________________________________________
+|      var1>var2     |      var1>10         |         var2>5           ||      A    |      B     |    C     |     A Y C     |    A o C    |    A Y B   |     A o B    |    B Y B    |
+-----------------------------------------------------------------------|     
+|       8>6          |       8>10           |         6>5              |
+-----------------------------------------------------------------------|
+|                    |                      |                          |       v           v                         
+-----------------------------------------------------------------------|
+|                    |                      |                          |       v           f
+-----------------------------------------------------------------------|
+
+
+si (numer %2==0) y (number%2==0) entonces
+
+
+finsi
+
+3er ejercicio
+
+leer n cantidad de numeros, determinar la cantidad de numeros pares e impares 
+
+ds: cantnumpar,cantnumimpar
+De numero
+
+inicio
+entero cantNumPar
+entero cantNumImpar
+decimal numero
+cantNumPar=0
+cantNumImpar=0
+escribir "ingrese un numero

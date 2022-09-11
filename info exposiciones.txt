@@ -1,0 +1,69 @@
+creador de contenidos tipo blog
+
+creado en el 2003 
+
+widgets, son fragmentos de contenido que permiten crear calendarios, informacion etc
+
+plug-in filtrado de busqueda
+
+hosting ejecicion de proyectos
+
+dominio, personalizacion con wordpress
+
+ventajas es un CMS gratuito
+
+Desarrollado en PHP 
+
+es lento, su actualizacion depende de plug-in
+
+.or plataforma autoctona, no cuenta con funciones tan amigables
+
+Yoast seo es in plug in de posicionamiento 
+
+-------------------------------------------------------------------------------------
+DRUPAL
+
+creado el 1 enero 2002 raise buitrael
+
+se necesita conocimiento avanzdo en programacion
+
+corta linea de aprendizaje
+
+CMS m'as seguro del momento con actualizaciones amplias
+
+Cuenta con varias opciones/scripts para mejorar el rendimiento
+
+sistema de cache apropiado
+
+Tiene su propio pasillo de comercio 
+
+los sistemas de admon de contenido son flexibles
+
+gratuito, sistema abierto, usa un sistema de cache incorporado
+
+desventajas/ no es dinamico al inicio
+
+composer --- gestor de paquetes de PHP    es dependiente de un servidor y de un gestor de bases de datos.
+
+si no se ubica un php en ht2 no se ejecuta        instalar extension pharagraph para modificacion de espacios de texto
+
+que tipode licencia tiene: drupal GTL v2
+
+FTP  protocolo de transmision de informacion
+
+---------------------------------------------------------------
+Joomla
+
+Administrador de contenido dinamico como Blogs o E-commerce desarrollado por andrew Edie junto a otros desarroladores
+su proposito es creacion de contenido/sitios web y contenido
+
+bootstrap- creacion de interfaces lisas
+uso wysiwig, usa plantillas, interfases estructuradas, cuenta con paquetes suceptibles por sus fuentes
+alta modificacion de contenido  WYC          ACL 
+
+instalacion   XAMP   usa la ultima version de PHP 8
+
+pagina de joomla interactiva 
+CLS lista de control de acceso
+
+GPL y creative commons

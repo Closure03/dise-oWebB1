@@ -1,0 +1,28 @@
+#pharagraph{/*enlace de estilo por ID*/
+    margin-top: 25px;
+    color: rgba(13, 17, 8, 0.733);
+    padding: 10 px;
+    background-color: rgb(179, 192, 59);
+}
+.estilo1{
+    margin: 20px;
+    background-color: #7f59d8;
+    color: rgb(209, 219, 228);
+    padding: 25px;
+}
+h1{
+    background-color: azure;
+}
+.primero{
+    margin: 50px;
+    border-bottom: rgb(248, 242, 242);
+    padding: 16px;
+    
+}
+.titulos{
+    font-style: normal;
+    size-adjust: 55px0;
+    background-color: rgb(192, 238, 192);
+    font-size: xx-large;
+
+}
